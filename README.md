@@ -8,6 +8,10 @@
 - A Running Bitcoin Core node on Signet or Testnet network
 - PostgresDB installed
 
+## Concept
+
+How can we deal with standing order i.e. recurring future payments with Bitcoin? This project explores how it could be implemented.
+
 ## Purpose
 
 This project is an opportunity to learn about Bitcoin development, and how to integrate it into a nodeJS webapp.
